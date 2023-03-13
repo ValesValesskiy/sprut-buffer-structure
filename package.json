@@ -1,0 +1,16 @@
+{
+  "name": "sprut-buffer-structure",
+  "version": "0.0.1-beta.2",
+  "description": "Инструмент кодирования-декодирования буферов данных разных типов",
+  "keywords": ["buffer", "structure", "buffer message"],
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValesValesskiy/sprut-buffer-structure"
+  },
+  "author": "vv",
+  "license": "ISC"
+}
